@@ -1,3 +1,7 @@
+# File Management System 
+
+This Python application provides a graphical user interface (GUI) for various file system operations using Tkinter. Below are the features and explanations of each operation:
+
 ### List all files and directories
 - Displays all files and directories in the current working directory.
 - Uses `os.listdir()` to retrieve the list of files and directories and displays them in the GUI.
