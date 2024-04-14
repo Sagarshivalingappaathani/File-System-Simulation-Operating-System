@@ -101,12 +101,15 @@ Each feature provides a specific file system operation, enhancing the file manag
 
 ## ScreenShots
 
-### 1)Listing All the files in the current directory 
+#### 1)Listing All the files in the current directory 
 
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/listfiles.png">
 
+#### 2) Creating the file
+
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/create.png">
 
+#### 3) Reading the Content of File
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/read.png">
 
   <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/copy.png">
