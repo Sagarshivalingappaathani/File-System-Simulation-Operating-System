@@ -101,6 +101,8 @@ Each feature provides a specific file system operation, enhancing the file manag
 
 ## ScreenShots
 
+### 1)Listing All the files in the current directory 
+
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/listfiles.png">
 
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/create.png">
