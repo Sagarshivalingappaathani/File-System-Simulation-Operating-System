@@ -100,6 +100,27 @@ Each feature provides a specific file system operation, enhancing the file manag
 - File content can be viewed directly in the GUI for operations like displaying file content, overwriting files, and more.
 
 ## ScreenShots
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/listfiles.png">
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/create.png">
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/read.png">
+
   <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/copy.png">
 
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/search.png">
+
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/encrypt.png">
+
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/encrypted_file.png">
+
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/image.png">
+
+
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/delete.png">
 
