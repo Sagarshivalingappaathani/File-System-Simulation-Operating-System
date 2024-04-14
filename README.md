@@ -102,30 +102,29 @@ Each feature provides a specific file system operation, enhancing the file manag
 ## ScreenShots
 
 #### 1)Listing All the files in the current directory 
-
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/listfiles.png">
 
 #### 2) Creating the file
-
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/create.png">
 
 #### 3) Reading the Content of File
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/read.png">
 
-  <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/copy.png">
+#### 4) Copying of File
+<img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/copy.png">
 
-
+#### 5) Searching of File
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/search.png">
 
-
+#### 6) Encrypting of File
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/encrypt.png">
 
-
+#### 7) Encrypted File Content
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/encrypted_file.png">
 
-
+#### 8) Opening the image
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/image.png">
 
-
+#### 8) Deleteing the file
 <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/delete.png">
 
