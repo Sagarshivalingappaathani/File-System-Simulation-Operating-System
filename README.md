@@ -100,8 +100,6 @@ Each feature provides a specific file system operation, enhancing the file manag
 - File content can be viewed directly in the GUI for operations like displaying file content, overwriting files, and more.
 
 ## ScreenShots
-<div align="center">
-  <img src="https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/assets/121311033/dc2ef84c-8032-4eb9-8599-ad852d305077" width="45%" alt="Screenshot 1">
-  <img src="https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/assets/121311033/8d1249f7-8193-46f5-bade-0fa1a4d589cd" width="45%" alt="Screenshot 2">
-</div>
+  <img src="https://github.com/Sagarshivalingappaathani/File-System-Simulation-Operating-System/blob/main/Screeshots/copy.png">
+
 
